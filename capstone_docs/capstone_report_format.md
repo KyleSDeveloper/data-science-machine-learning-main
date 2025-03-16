@@ -11,6 +11,13 @@ Sell your project in 6-8 sentences.  Answer these questions
 * What is your solution and how does it solve the problem and address those limitaitons
 * What are you results - tell me in numbers (X % accuracy, Y F1-score, etc)
 
+
+Phishing websites are problematic because they trick people into revealing personal information such as credit card numbers or banking login credentials which allows attacks to steal money from the victims accounts and make unauthorized purchases. Phishing sites can also capture personal details like social security numbers, passwords, or other identifying information, phishing websites allow criminals to impersonate their victims. 
+
+People are often 
+
+
+
 ## Introduction
 
 Take every sentence of your abstract (which answered all those questions) and expand it into paragraphs. The introduction repeats everything that happened in the abstract, with more detail. End your introduction by explaining very clearly what you did. "In this work we took dataset X, performing algorithms Y, and found out results Z."
