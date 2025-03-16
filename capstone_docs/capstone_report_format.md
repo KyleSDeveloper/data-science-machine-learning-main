@@ -12,9 +12,7 @@ Sell your project in 6-8 sentences.  Answer these questions
 * What are you results - tell me in numbers (X % accuracy, Y F1-score, etc)
 
 
-Phishing websites are problematic because they trick people into revealing personal information such as credit card numbers or banking login credentials which allows attacks to steal money from the victims accounts and make unauthorized purchases. Phishing sites can also capture personal details like social security numbers, passwords, or other identifying information, phishing websites allow criminals to impersonate their victims. 
-
-People are often 
+Phishing websites are problematic because they trick people into revealing personal information such as credit card numbers or banking login credentials which allows attacks to steal money from the victims accounts and make unauthorized purchases. Phishing sites can also capture personal details like social security numbers, passwords, or other identifying information, phishing websites allow criminals to impersonate their victims. Phishing websites lead to data breaches meaning they can serve as an entry point into coorporate networks resulting in data-leaks, theft, or ransomware attacks. Businesses often train their employees to recognize phishing attempts vby identifying suspicious emails, misspelled urls, or other bizare requests of personal informations. Another solution to this problem is email filtering where systems identify and block phishing emails before they reach the users some examples include gmails spam filter or other email security tools. Another common solution is browser warning or alerts built into web browsers to warn users.
 
 
 
